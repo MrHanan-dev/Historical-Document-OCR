@@ -168,7 +168,7 @@ https://github.com/user-attachments/assets/55b4001a-f09a-4aa3-8f1d-8ee3ab9cad19
 
 ## 📞 Support
 
-For support, please open an issue in the GitHub repository or contact [your contact information].
+For support, please open an issue in the GitHub repository or contact muhammadhanan23230@gmail.com.
 
 ---
 
